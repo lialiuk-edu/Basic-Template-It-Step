@@ -1,0 +1,28 @@
+.item {
+    /* min-height: 300px;
+    max-height: 300px; */
+    min-width: 100%;
+    max-width: 100%;
+
+    background: rgba(255, 145, 0, 0.96);
+    border-radius: 24px;
+}
+
+.item h2,
+p {
+    color: #fff;
+}
+
+.item p {
+    font-family: 'Roboto';
+    font-size: 18px;
+    line-height: 1.2;
+
+}
+
+.item h2 {
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 1.2;
+}
